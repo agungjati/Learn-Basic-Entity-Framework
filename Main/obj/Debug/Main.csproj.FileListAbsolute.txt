@@ -1,0 +1,37 @@
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\bin\Debug\Main.exe.config
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\bin\Debug\Main.exe
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\bin\Debug\Main.pdb
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\bin\Debug\Connnection.dll
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\bin\Debug\EntityFramework.dll
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\bin\Debug\Connnection.pdb
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\bin\Debug\EntityFramework.xml
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\obj\Debug\Main.exe
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\obj\Debug\Main.pdb
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\bin\Debug\Models.dll
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\bin\Debug\ServiceApplication.dll
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\bin\Debug\Models.pdb
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\bin\Debug\ServiceApplication.pdb
+C:\Users\Jaenal Lee\Documents\Visual Studio 2015\Projects\Solution1\Main\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\# Crusader\Project\C#\Solution1\Main\bin\Debug\Main.exe.config
+D:\# Crusader\Project\C#\Solution1\Main\obj\Debug\Main.exe
+D:\# Crusader\Project\C#\Solution1\Main\obj\Debug\Main.pdb
+D:\# Crusader\Project\C#\Solution1\Main\bin\Debug\Main.exe
+D:\# Crusader\Project\C#\Solution1\Main\bin\Debug\Main.pdb
+D:\# Crusader\Project\C#\Solution1\Main\bin\Debug\EntityFramework.dll
+D:\# Crusader\Project\C#\Solution1\Main\bin\Debug\EntityFramework.SqlServer.dll
+D:\# Crusader\Project\C#\Solution1\Main\bin\Debug\Models.dll
+D:\# Crusader\Project\C#\Solution1\Main\bin\Debug\ServiceApplication.dll
+D:\# Crusader\Project\C#\Solution1\Main\bin\Debug\Connnection.dll
+D:\# Crusader\Project\C#\Solution1\Main\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\# Crusader\Project\C#\Solution1\Main\bin\Debug\Models.pdb
+D:\# Crusader\Project\C#\Solution1\Main\bin\Debug\ServiceApplication.pdb
+D:\# Crusader\Project\C#\Solution1\Main\bin\Debug\EntityFramework.xml
+D:\# Crusader\Project\C#\Solution1\Main\bin\Debug\EntityFramework.SqlServer.xml
+D:\# Crusader\Project\C#\Solution1\Main\bin\Debug\Connnection.pdb
+D:\# Crusader\Project\C#\Solution1\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\# Crusader\Project\C#\Solution1\basic-backend-web-api\Main\bin\Debug\Main.exe.config
+D:\# Crusader\Project\C#\Solution1\basic-backend-web-api\Main\obj\Debug\Main.exe
+D:\# Crusader\Project\C#\Solution1\basic-backend-web-api\Main\obj\Debug\Main.pdb
